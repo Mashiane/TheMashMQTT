@@ -1,0 +1,15 @@
+﻿ModuleBookmarks0=
+ModuleBookmarks1=
+ModuleBookmarks2=
+ModuleBookmarks3=
+ModuleBreakpoints0=
+ModuleBreakpoints1=
+ModuleBreakpoints2=
+ModuleBreakpoints3=
+ModuleClosedNodes0=
+ModuleClosedNodes1=
+ModuleClosedNodes2=
+ModuleClosedNodes3=
+NavigationStack=TheMashMQTTClient,publish,129,0,TheMashMQTTClient,close,153,6,TheMashMQTTClient,setProtocol,158,0,TheMashMQTTClient,unsubscribe,147,0,TheMashMQTTClient,Initialize,45,5,TheMashMQTTClient,getreconnecting,244,0,TheMashMQTTClient,connect,121,0,TheMashMQTTClient,getMessageFromBytes,127,5,TheMashMQTTClient,getMessage,124,6,TheMashMQTTClient,Class_Globals,10,1
+SelectedBuild=0
+VisibleModules=1
